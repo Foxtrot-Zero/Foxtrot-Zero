@@ -1,4 +1,6 @@
-***About me***: 💊 French Pharmacist & Creator of **[Medotum](http://Medotum.com)** 🌐
+***About me***: 💊 French Pharmacist & Creator of **[Medotum](https://Medotum.com)** 🌐
+
+***My personal website***: [FxtZr](https://FxtZr.com)
 
 ***My personal project***: _Medotum_
 
@@ -6,5 +8,5 @@ Medotum is a personal project, conceived and built by a French pharmacist, in a 
 
 It remains an information-support tool, nothing more. It never replaces a consultation or the advice of a healthcare professional. Like any database, it may contain errors, inaccuracies, or incomplete or missing information: always check every piece of information with a healthcare professional before any decision. Its author cannot be held responsible for any use that disregards this warning.
 
-**[Medotum](http://Medotum.com)** 🌐
+**[Medotum](https://Medotum.com)** 🌐
 -
