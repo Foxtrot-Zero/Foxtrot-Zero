@@ -1,6 +1,6 @@
 ***About me***: 💊 French Pharmacist & Creator of **[Medotum](https://Medotum.com)** 🌐
 
-***My personal website***: [FxtZr](https://FxtZr.com)
+***My personal website***: [FxtZr](https://FxtZr.com) 🌐
 
 ***My personal project***: _Medotum_
 
